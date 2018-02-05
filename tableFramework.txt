@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+
+	<title>Table-n</title>
+	
+	<meta name="author" content="Benjamin Ray"/>
+	<meta name="date" content="Spring 2018"/>
+
+	<meta charset="utf-8" />
+	
+	<meta name="description" content="Table of Exact Answer Decimal Equivalents">
+	
+	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+	<script src="ASCIIMathML.js"></script>
+	
+</head>
+
+<body>
+
+<h1>Decimal Equivalents</h1>
+<h3>Use ctrl-f To Search Tables</h3> 
+
+
+
+
+<footer>
+	<p><a href="https://www.linkedin.com/in/bnray53">Developer</a></p>
+</footer>
+
+</body>
+
+</html>	

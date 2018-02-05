@@ -1,0 +1,21 @@
+#topHeading{
+	text-align: center;
+}
+
+#notes{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+	font-size: 18px;
+}
+
+#subHeading1{
+	padding-top: 20px;
+	padding-left: 5px;
+}
+
+#verticalNavigationList li{
+	list-style-type: none;
+	
+	padding-top: 15px;
+}
